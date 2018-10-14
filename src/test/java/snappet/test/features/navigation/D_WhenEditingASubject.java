@@ -22,7 +22,7 @@ import static snappet.test.ui.PanelLessonElements.*;
 
 @RunWith(SerenityRunner.class)
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
-public class WhenEditingASubject {
+public class D_WhenEditingASubject {
 
     @Managed(driver = "chrome")
     private

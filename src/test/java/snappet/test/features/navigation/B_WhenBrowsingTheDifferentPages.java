@@ -31,7 +31,7 @@ import static snappet.test.ui.WorkingSetsPageElements.*;
 
 @RunWith(SerenityRunner.class)
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
-public class WhenBrowsingTheDifferentPages {
+public class B_WhenBrowsingTheDifferentPages {
 
     @Managed(driver = "chrome")
     private

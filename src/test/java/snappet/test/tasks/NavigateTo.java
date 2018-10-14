@@ -8,13 +8,14 @@ import net.serenitybdd.screenplay.Task;
 import net.serenitybdd.screenplay.actions.Click;
 import net.thucydides.core.annotations.Step;
 import snappet.test.ui.NavigationBar;
+import snappet.test.ui.SnappetHomePage;
 
 public class NavigateTo implements Task {
 
     private final navMenu page;
-    private snappet.test.ui.SnappetHomePage theSnappetHomePage;
+    private SnappetHomePage theSnappetHomePage;
 
-    private NavigateTo(navMenu page) {
+    public NavigateTo(navMenu page) {
         this.page = page;
     }
 
