@@ -1,0 +1,4 @@
+WhenBrowsingTheSnappetWebPage:
+I as a user
+I want to be able to navigate to any particular page
+and check those pages when no lesson was preciously created.
