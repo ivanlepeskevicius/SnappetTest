@@ -1,5 +1,5 @@
 # SnappetTest
-Tests for Snappet quick search feature
+Tests for Snappet
 
 In order to run the tests you can use maven using the command:
 >        $ mvn verify 
