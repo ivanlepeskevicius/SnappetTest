@@ -1,7 +1,7 @@
 # SnappetTest
 Tests for Snappet
 
-You can run the tests using IntelliJ IDEA or maven:
+You can run the tests using IntelliJ IDEA or maven.
 
 In order to run the tests you can use maven using the command:
 >        $ mvn verify 
